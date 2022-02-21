@@ -1,10 +1,10 @@
-package com.ctrip.util;
+package com.wly.util;
 
 import java.util.*;
 
 public class BigDataRandomOne {
     public static void main(String[] args) {
-        //35,18,25,14,12,36,37,38
+        //41,42,43,44,45,46,47,48
         System.out.println(getOne());
     }
 
@@ -57,6 +57,7 @@ public class BigDataRandomOne {
         map.put("45","RDD 的弹性表现在哪几点");
         map.put("46","介绍一下 join 操作优化经验");
         map.put("47","Hive 中的压缩格式 TextFile、SequenceFile、RCfile 、ORCfile各有什么区别？");
+        map.put("48","宽窄依赖");
 
 
         int len = map.size() - 1;

@@ -1,4 +1,4 @@
-package com.ctrip.review.January;
+package com.wly.review.January;
 
 public class Review20220126 {
     public static void main(String[] args) {

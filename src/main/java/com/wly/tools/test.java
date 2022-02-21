@@ -1,4 +1,4 @@
-package com.ctrip.tools;
+package com.wly.tools;
 
 import java.util.*;
 

@@ -1,11 +1,11 @@
-package com.ctrip.util;
+package com.wly.util;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class LeetCodeRandomOne {
-    //98(二叉搜索树 repeat)、720(前缀树)、485(数组)、692(堆)、152(动态规划)、22(回溯算法)、二叉树
+    //496(栈、哈希表),55(贪心算法),242(hash表),103(宽度优先搜素),34(二分查找),78(回溯),687(递归算法)
     public static void main(String[] args) {
         System.out.println(getOne());
     }

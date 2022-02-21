@@ -1,6 +1,4 @@
-package com.ctrip.review.January;
-
-import java.util.LinkedList;
+package com.wly.review.January;
 
 public class Review20220121 {
     static int count = 0;

@@ -1,6 +1,4 @@
-package com.ctrip.practice;
-
-import scala.Int;
+package com.wly.practice;
 
 import java.util.ArrayList;
 import java.util.Arrays;

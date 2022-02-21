@@ -1,6 +1,6 @@
-package com.ctrip.util;
+package com.wly.util;
 
-import com.ctrip.beans.MysqlBean;
+import com.wly.beans.MysqlBean;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

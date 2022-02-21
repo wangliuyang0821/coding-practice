@@ -1,4 +1,4 @@
-package com.ctrip.practice;
+package com.wly.practice;
 
 public class testFastSort {
     public static void main(String[] args) {

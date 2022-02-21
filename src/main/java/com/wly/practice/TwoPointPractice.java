@@ -1,10 +1,6 @@
-package com.ctrip.practice;
+package com.wly.practice;
 
-import scala.math.Ordering;
-
-import java.text.DecimalFormat;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashSet;
 
 /**

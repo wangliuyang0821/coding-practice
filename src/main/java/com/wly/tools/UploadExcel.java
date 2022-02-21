@@ -1,6 +1,6 @@
-package com.ctrip.tools;
+package com.wly.tools;
 
-import com.ctrip.util.MysqlCommonHandler;
+import com.wly.util.MysqlCommonHandler;
 import jxl.Sheet;
 import jxl.Workbook;
 import java.io.File;

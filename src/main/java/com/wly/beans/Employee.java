@@ -1,4 +1,4 @@
-package com.ctrip.beans;
+package com.wly.beans;
 
 /**
  * @author W.L.Y

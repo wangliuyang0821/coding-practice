@@ -1,7 +1,6 @@
-package com.ctrip.practice;
+package com.wly.practice;
 
 import java.util.HashSet;
-import java.util.List;
 
 /**
  * @author W.L.Y

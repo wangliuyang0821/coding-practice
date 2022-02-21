@@ -1,6 +1,6 @@
-package com.ctrip.practice;
+package com.wly.practice;
 
-import com.ctrip.beans.Employee;
+import com.wly.beans.Employee;
 
 import java.util.*;
 import java.util.function.Consumer;

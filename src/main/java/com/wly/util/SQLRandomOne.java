@@ -1,4 +1,4 @@
-package com.ctrip.util;
+package com.wly.util;
 
 import java.util.*;
 

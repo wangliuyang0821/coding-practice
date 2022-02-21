@@ -1,4 +1,4 @@
-package com.ctrip.practice;
+package com.wly.practice;
 
 import scala.collection.mutable.Stack;
 

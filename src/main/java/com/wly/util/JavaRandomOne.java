@@ -1,10 +1,10 @@
-package com.ctrip.util;
+package com.wly.util;
 
 import java.util.*;
 
 public class JavaRandomOne {
     public static void main(String[] args) {
-        //20,16,25,17,23,9,3,8
+        //11,4,28,21,22,16,13,23\
         System.out.println(getOne());
     }
 
@@ -40,6 +40,7 @@ public class JavaRandomOne {
         map.put("30","线程池处理流程");
         map.put("31","线程池中阻塞队列的作用？为什么是先添加队列而不是先创建最大线程？");
         map.put("32","线程池的复用原理");
+        map.put("33","scala伴生对象");
 
         int len = map.size() - 1;
         int randomNum = new Random().nextInt(len);

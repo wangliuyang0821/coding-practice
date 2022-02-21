@@ -1,4 +1,4 @@
-package com.ctrip.beans;
+package com.wly.beans;
 
 import java.io.Serializable;
 
