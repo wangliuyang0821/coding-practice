@@ -22,10 +22,10 @@ public class UploadExcel {
         // 获得所有工作表
         Sheet[] sheets = workbook.getSheets();
 
-        String url = "jdbc:mysql://tourrealtimeti.ti.db.uat.qa.nt.ctripcorp.com:55777/tourrealtimetidb?useUnicode=true&characterEncoding=UTF-8";
-        String username = "m_tourremeti_4r";
-        String password = "UY460_pGPz!68()zz!v";
-        String driver = "com.mysql.jdbc.Driver";
+        String url = "";
+        String username = "";
+        String password = "";
+        String driver = "";
         String columnNames = "pageid,bu,bu_chinese,pagename,page_type_name,page_owner";
         String tableName = "dim_vacpage";
         String sql = MysqlCommonHandler.getSql(columnNames,tableName);
